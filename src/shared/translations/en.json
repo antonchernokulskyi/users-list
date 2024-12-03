@@ -1,0 +1,21 @@
+{
+  "users": {
+    "users": "Users",
+    "search": "Search",
+    "edit": "Edit",
+    "delete": "Delete",
+    "add-user": "Add user",
+    "no-users": "No users yet.\nLet's add the first one!",
+    "delete-alert-title": "Delete user?",
+    "delete-alert-content": "Are you sure you want to delete the user?\nYou can't undo this action.",
+    "cancel": "Cancel"
+  },
+  "user-details": {
+    "add-user": "Add user",
+    "edit-user": "Edit user",
+    "first-name": "First name",
+    "last-name": "Last name",
+    "email": "Email",
+    "save": "Save"
+  }
+}
